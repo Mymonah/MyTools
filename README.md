@@ -11,4 +11,5 @@
 - Parphrasing Tools: [quillbot](https://quillbot.com/) | [wordtune](https://www.wordtune.com/) |
 - Convert text to sound: [elevenlabs](https://elevenlabs.io/) |
 - Trends check: [Google Trends](https://trends.google.com/) |
+- Keyword check: [ahrefs](https://ahrefs.com/keyword-generator) |
   
